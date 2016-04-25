@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./deverbisetintran00hilduoft_0009.png"; bbox 0 0 1815 3231; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 384 1105 1112 1164">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 384 1105 1112 1164">
+     <span class='ocr_line' id='line_1_1' title="bbox 384 1105 1112 1164; baseline 0.016 -12"><span class='ocrx_word' id='word_1_1' title='bbox 384 1105 552 1155; x_wconf 76' lang='lat' dir='ltr'><strong>AUG.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 599 1108 1112 1164; x_wconf 60' lang='lat' dir='ltr'>HILblelzleNw:</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 23 1310 1471 1617">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 23 1310 1471 1617">
+     <span class='ocr_line' id='line_1_2' title="bbox 522 1310 983 1386; baseline 0.002 -6"><span class='ocrx_word' id='word_1_3' title='bbox 522 1310 626 1381; x_wconf 74' lang='lat' dir='ltr'>DE</span> <span class='ocrx_word' id='word_1_4' title='bbox 681 1314 983 1386; x_wconf 46' lang='lat' dir='ltr'>VERBIS</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 23 1415 1471 1506; baseline 0.015 -21"><span class='ocrx_word' id='word_1_5' title='bbox 23 1415 126 1486; x_wconf 77' lang='lat' dir='ltr'>ET</span> <span class='ocrx_word' id='word_1_6' title='bbox 187 1417 794 1496; x_wconf 61' lang='lat' dir='ltr'>IN&#39;PRANSITIVE</span> <span class='ocrx_word' id='word_1_7' title='bbox 855 1429 958 1498; x_wconf 73' lang='lat' dir='ltr'>ET</span> <span class='ocrx_word' id='word_1_8' title='bbox 1014 1432 1471 1506; x_wconf 53' lang='grc' dir='ltr'>(ἋΙῊᾹἸἸΥΕ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 144 1530 1354 1617; baseline 0.015 -18"><span class='ocrx_word' id='word_1_9' title='bbox 144 1530 362 1603; x_wconf 73' lang='lat' dir='ltr'>APUD</span> <span class='ocrx_word' id='word_1_10' title='bbox 415 1534 831 1610; x_wconf 71' lang='lat' dir='ltr'>HOMERUM</span> <span class='ocrx_word' id='word_1_11' title='bbox 888 1542 1354 1617; x_wconf 46' lang='lat' dir='ltr'>{Nh&#39;l-{lzx&#39;rls</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 91 2915 363 2952">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 91 2915 363 2952">
+     <span class='ocr_line' id='line_1_5' title="bbox 91 2915 363 2952; baseline 0.026 -7"><span class='ocrx_word' id='word_1_12' title='bbox 91 2915 153 2947; x_wconf 72' lang='lat' dir='ltr'>Dis</span> <span class='ocrx_word' id='word_1_13' title='bbox 157 2919 363 2952; x_wconf 62' lang='lat'>.........</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
